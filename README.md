@@ -10,7 +10,7 @@
 
 ### 🧠 About Me
 
-- 🎓 I'm a **3rd-year CS (AI)** undergraduate student  
+- 🎓 I'm a **4th-year CS (AI)** undergraduate student  
 - 🔭 worked on **full stack development** 
 - 🌱 Learning **AI\ML and Full Stack Development**
 - ⚡ Fun fact: I love turning ideas into real things using code 🚀
