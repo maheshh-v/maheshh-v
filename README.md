@@ -30,14 +30,13 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
 ![REST API](https://img.shields.io/badge/-REST%20API-005571?style=flat)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 
 #### 📚 Libraries
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn)
-![Seaborn](https://img.shields.io/badge/-Seaborn-5B8FA8?style=flat&logo=seaborn)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%230C7BDC.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 
 
 #### 🛠 Tools & IDEs
