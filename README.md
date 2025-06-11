@@ -3,7 +3,7 @@
 <h3 align="center">A passionate CS(AI) Student | Developer | Tech Explorer</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=3rd+Year+CS+AI+Student;Web+%26+ML+Enthusiast;Always+Learning+Something+New!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=4th+Year+CS+AI+Student;Web+%26+ML+Enthusiast;Always+Learning+Something+New!" alt="Typing SVG" />
 </div>
 
 ---
