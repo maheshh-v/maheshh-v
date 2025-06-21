@@ -21,7 +21,7 @@
 
 - 🧠 **Smart Resume Q&A Bot** – LangChain, FAISS, HuggingFace, Streamlit  
   ➤ Ask questions to your resume like "What's my CGPA?"  
-  ➤ [GitHub](https://github.com/maheshh-v/Smart-Resume-QnA-Bot)
+  ➤ [GitHub](https://github.com/maheshh-v/Resume-Q-A-Chatbot)
 
 - 🚢 **Titanic Survival Prediction API** – Scikit-learn, Flask  
   ➤ Cleaned data, trained RandomForest, deployed via Flask REST API  
