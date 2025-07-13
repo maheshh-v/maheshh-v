@@ -23,6 +23,10 @@
   ➤ Ask questions to your resume like "What's my CGPA?"  
   ➤ [GitHub](https://github.com/maheshh-v/Resume-Q-A-Chatbot)
 
+- 🎵 **MoodSense AI** – Emotion Detection + Music Recommendation  
+  ➤ Built an NLP-based app to detect emotions from text and suggest mood-matching songs using LSTM with GloVe embeddings   
+  ➤ [GitHub](https://github.com/maheshh-v/MoodSense-AI)
+
 - 🚢 **Titanic Survival Prediction API** – Scikit-learn, Flask  
   ➤ Cleaned data, trained RandomForest, deployed via Flask REST API  
   ➤ [GitHub](https://github.com/maheshh-v/Titanic-survival-prediction)
