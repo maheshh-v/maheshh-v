@@ -7,13 +7,13 @@
 
 ---
 
-### 🧠 About Me
+###  About Me
 
-- 🎓 Final-year B.Tech in **Computer Science (AI)** from RTU  
-- 🤖 Passionate about **AI/ML**, **Vector Search**, and building **real-world AI tools**
-- 🌐 Built 5+ projects with **Scikit-learn**, **LangChain**, **Flask**, and **Streamlit**
-- 🔭 Exploring **LLMs**, **TensorFlow**, and **NLP** applications
-- 🧰 Love converting raw ideas into **deployed AI solutions**
+- Final-year B.Tech in **Computer Science (AI)** from RTU  
+- Passionate about **AI/ML**, **Vector Search**, and building **real-world AI tools**
+- Built 7+ projects with **Scikit-learn**, **tensorflow - kearas** ,**LangChain**, **Flask**, and **Streamlit**
+-  Exploring **LLMs**, **TensorFlow**, and **NLP** applications
+-  Love converting raw ideas into **deployed AI solutions**
 
 ---
 
@@ -24,7 +24,8 @@
   ➤ [GitHub](https://github.com/maheshh-v/Resume-Q-A-Chatbot)
 
 - 🎵 **MoodSense AI** – Emotion Detection + Music Recommendation  
-  ➤ Built an NLP-based app to detect emotions from text and suggest mood-matching songs using LSTM with GloVe embeddings   
+  ➤ Built an NLP-based app to detect emotions from text and suggest mood-matching songs using LSTM with GloVe embeddings
+  ➤ updated with bert model
   ➤ [GitHub](https://github.com/maheshh-v/MoodSense-AI)
 
 - 🚢 **Titanic Survival Prediction API** – Scikit-learn, Flask  
@@ -41,9 +42,9 @@
 
 ---
 
-### ⚒️ Tech Stack
+### ⚒Tech Stack
 
-#### 💻 Languages
+####  Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql)
@@ -63,7 +64,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
-#### 🧪 Experiment Tracking
+####  Experiment Tracking
 ![Weights & Biases](https://img.shields.io/badge/-W%26B-FCC624?style=flat&logo=wandb)
 
 ---
