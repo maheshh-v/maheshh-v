@@ -19,11 +19,11 @@
 
 ### 💼 Featured Projects
 
-- 🧠 **Smart Resume Q&A Bot** – LangChain, FAISS, HuggingFace, Streamlit  
+-  **Smart Resume Q&A Bot** – LangChain, FAISS, HuggingFace, Streamlit  
   ➤ Ask questions to your resume like "What's my CGPA?"  
   ➤ [GitHub](https://github.com/maheshh-v/Resume-Q-A-Chatbot)
 
-- 🎵 **MoodSense AI** – Emotion Detection + Music Recommendation  
+-  **MoodSense AI** – Emotion Detection + Music Recommendation  
   ➤ Built an NLP-based app to detect emotions from text and suggest mood-matching songs using LSTM with GloVe embeddings
   ➤ updated with bert model
   ➤ [GitHub](https://github.com/maheshh-v/MoodSense-AI)
