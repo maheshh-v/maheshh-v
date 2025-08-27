@@ -20,25 +20,23 @@
 ### 💼 Featured Projects
 
 -  **Smart Resume Q&A Bot** – LangChain, FAISS, HuggingFace, Streamlit  
-  ➤ Ask questions to your resume like "What's my CGPA?"  
+  ➤ Ask questions to your resume like *"What's my CGPA?"*  
   ➤ [GitHub](https://github.com/maheshh-v/Resume-Q-A-Chatbot)
 
--  **MoodSense AI** – Emotion Detection + Music Recommendation  
-  ➤ Built an NLP-based app to detect emotions from text and suggest mood-matching songs using LSTM with GloVe embeddings
-  ➤ updated with bert model
+- 😊 **MoodSense AI** – Emotion Detection + Music Recommendation  
+  ➤ NLP-based app to detect emotions from text and suggest mood-matching songs  
+  ➤ Fine-tuned DistilBERT for classification + Spotify API integration  
   ➤ [GitHub](https://github.com/maheshh-v/MoodSense-AI)
 
-- 🚢 **Titanic Survival Prediction API** – Scikit-learn, Flask  
-  ➤ Cleaned data, trained RandomForest, deployed via Flask REST API  
-  ➤ [GitHub](https://github.com/maheshh-v/Titanic-survival-prediction)
-
-- 🏠 **House Price Prediction Dashboard** – XGBoost, Streamlit  
-  ➤ Live demo: [Streamlit App](https://smarthouseprice-predictor-rxuhktznbghd6n4fz22y86.streamlit.app/)  
-  ➤ [GitHub](https://github.com/maheshh-v/SmartHousePrice-Predictor)
+- 📩 **SMS Spam Classifier** – Scikit-learn, Streamlit  
+  ➤ Web app to classify spam vs. ham messages using Logistic Regression  
+  ➤ Includes preprocessing, TF-IDF vectorization, and deployment  
+  ➤ [GitHub](https://github.com/maheshh-v/SMS-Spam-Classifier)
 
 - 📊 **Cafe Sales Analysis** – Pandas, NumPy, Matplotlib  
-  ➤ 10,000+ transaction insights, top items, time slots  
+  ➤ Analyzed **10,000+ transactions** to extract insights (top items, peak time slots)  
   ➤ [GitHub](https://github.com/maheshh-v/Cafe-sales-Analysis)
+
 
 ---
 
