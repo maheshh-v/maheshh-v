@@ -31,7 +31,7 @@
 - 📩 **SMS Spam Classifier** – Scikit-learn, Streamlit  
   ➤ Web app to classify spam vs. ham messages using Logistic Regression  
   ➤ Includes preprocessing, TF-IDF vectorization, and deployment  
-  ➤ [GitHub](https://github.com/maheshh-v/SMS-Spam-Classifier)
+  ➤ [GitHub](https://github.com/maheshh-v/sms_spam_classifier)
 
 - 📊 **Cafe Sales Analysis** – Pandas, NumPy, Matplotlib  
   ➤ Analyzed **10,000+ transactions** to extract insights (top items, peak time slots)  
