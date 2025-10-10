@@ -19,8 +19,8 @@
 
 ### 💼 Featured Projects
 
--  **Smart Resume Q&A Bot** – LangChain, FAISS, HuggingFace, Streamlit  
-  ➤ Analyze, compare, & rank multiple candidates against job descriptions using an advanced RAG pipeline.
+- **Smart Resume Q&A Bot** – LangChain, FAISS, HuggingFace, Streamlit  
+  ➤ Analyze, compare, & rank multiple candidates against job descriptions using an advanced RAG pipeline.  
   ➤ Built with a secure, multi-tenant architecture using Pinecone namespaces for data privacy.  
   ➤ [GitHub](https://github.com/maheshh-v/Resume-Q-A-Chatbot)
 
@@ -37,6 +37,7 @@
 - 📊 **Cafe Sales Analysis** – Pandas, NumPy, Matplotlib  
   ➤ Analyzed **10,000+ transactions** to extract insights (top items, peak time slots)  
   ➤ [GitHub](https://github.com/maheshh-v/Cafe-sales-Analysis)
+
 
 
 ---
