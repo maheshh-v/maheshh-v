@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahesh Vyas</h1>
-<h3 align="center">AI/ML Intern | CS(AI) Undergrad | Streamlit & Flask Dev | Building Smart Projects with Purpose 🚀</h3>
+<h3 align="center">AI/ML Lead | CS(AI) Undergrad | Streamlit & Flask Dev | Building Smart Projects with Purpose 🚀</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Final+Year+CS+AI+Student+@RTU;Building+AI+Apps+%F0%9F%96%A5%EF%B8%8F+with+Python+%2B+ML;Flask+%2B+Streamlit+Project+Deployer;Always+Learning+%F0%9F%94%8D+%7C+Always+Building" alt="Typing SVG" />
