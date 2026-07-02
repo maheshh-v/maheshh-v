@@ -1,49 +1,43 @@
 <h1 align="center">Hi 👋, I'm Mahesh Vyas</h1>
-<h3 align="center">AI Engineer | Building AudiXt| Co-Founder, Skillwyn Labs</h3>
+<h3 align="center">AI Engineer | Building RAG, LLM Agents & AI Automation | Co-Founder, Skillwyn Labs</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Lead+AI%2FML+Engineer+%40+Stirring+Minds;Building+RAG+Pipelines+%26+LLM+Agents;Co-Founder+%40+Skillwyn+Labs;Always+Learning+%F0%9F%94%8D+%7C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Building+RAG+Pipelines+%26+LLM+Agents;AI+Systems+for+Real+Teams%2C+Not+Demos;Co-Founder+%40+Skillwyn+Labs;Always+Learning+%F0%9F%94%8D+%7C+Always+Building" alt="Typing SVG" />
 </div>
 
 ---
 
 ### About Me
 
-- AI Engineer building **RAG pipelines**, **LLM agents**, and **automation systems** used by real teams, not demos
-- Currently **Lead AI/ML Engineer** at **Stirring Minds**, owning AI initiatives across recruitment, support, and sales
+- AI Engineer building **RAG pipelines**, **LLM agents**, and **automation systems** for real teams — not demos
+- Built AI systems at **Stirring Minds**: a recruitment RAG screener that cut manual screening time by **~70%**, plus automation workflows that removed **50+ hours of manual work per week** across Ops, Sales, and Recruitment
 - Co-founded **Skillwyn Labs**, delivering AI solutions, automation, and full-stack products for independent clients
-- Final-year B.Tech in **Computer Science (AI)**, Geetanjali Institute of Technical Studies, Udaipur
 - Currently building **AudiX** — an AI-powered technical due-diligence platform for VCs, founders, and diligence teams
+- Final-year B.Tech in **Computer Science (AI)**, Geetanjali Institute of Technical Studies, Udaipur
 
 ---
 
 ### 💼 Featured Projects
 
-- **🔍 AudiX** – AI Product Auditing Platform
-  ➤ Automated technical due-diligence tool for VCs, founders, and diligence teams — scans live products for security, code quality, and business-logic issues
-  ➤ Four-stage pipeline: surface scan → static analysis (Semgrep) → dynamic crawl (Playwright) → LLM synthesis (Claude/GPT/Gemini)
-  ➤ [Portfolio](https://maheshvyas.vercel.app/building)
+**Built at Stirring Minds & Skillwyn Labs**
+- Recruitment RAG screener, internal support chatbot, sales/renewal voice agent (Vapi), and 15+ cross-platform automation workflows — built for real internal teams, in production use
+- AI systems, automations, and full-stack products delivered independently for Skillwyn Labs clients
 
-- **📄 Resume Analyzer** – Multi-Tenant Recruitment RAG System
-  ➤ Analyze, compare, and rank candidates against job descriptions using a RAG pipeline with MMR retrieval
-  ➤ Pinecone namespace isolation for strict per-tenant data privacy
-  ➤ [GitHub](https://github.com/maheshh-v/Resume-Q-A-Chatbot)
+**🔍 AudiX** – AI Product Auditing Platform *(current)*
+➤ Automated technical due-diligence tool for VCs, founders, and diligence teams — scans live products for security, code quality, and business-logic issues
+➤ Four-stage pipeline: surface scan → static analysis (Semgrep) → dynamic crawl (Playwright) → LLM synthesis (Claude/GPT/Gemini)
 
-- **😊 MoodSense AI** – Emotion Detection + Music Recommendation
-  ➤ NLP app that detects emotion from text and recommends mood-matching songs
-  ➤ Fine-tuned DistilBERT (92.95% accuracy) + Spotify API integration
-  ➤ [GitHub](https://github.com/maheshh-v/MoodSense-AI)
+**📄 Resume Analyzer** – Multi-Tenant Recruitment RAG System *(2024)*
+➤ Analyze, compare, and rank candidates against job descriptions using a RAG pipeline with MMR retrieval
+➤ Pinecone namespace isolation for strict per-tenant data privacy
+➤ [GitHub](https://github.com/maheshh-v/Resume-Q-A-Chatbot)
 
 <details>
-<summary><b>Other Projects</b></summary>
+<summary><b>Earlier projects</b> (college-level, kept for reference)</summary>
 
-- **📩 SMS Spam Classifier** – Scikit-learn, Streamlit
-  ➤ Classifies spam vs. ham messages using Logistic Regression with TF-IDF vectorization
-  ➤ [GitHub](https://github.com/maheshh-v/sms_spam_classifier)
-
-- **📊 Cafe Sales Analysis** – Pandas, NumPy, Matplotlib
-  ➤ Analyzed 10,000+ transactions to surface top items and peak time slots
-  ➤ [GitHub](https://github.com/maheshh-v/Cafe-sales-Analysis)
+- **😊 MoodSense AI** *(2024)* – Fine-tuned DistilBERT (92.95% accuracy) for emotion detection + Spotify API for mood-based song recommendations. [GitHub](https://github.com/maheshh-v/MoodSense-AI)
+- **📩 SMS Spam Classifier** *(2024)* – Logistic Regression + TF-IDF spam/ham classifier, deployed with Streamlit. [GitHub](https://github.com/maheshh-v/sms_spam_classifier)
+- **📊 Cafe Sales Analysis** *(2024)* – Analyzed 10,000+ transactions to surface top items and peak time slots. [GitHub](https://github.com/maheshh-v/Cafe-sales-Analysis)
 
 </details>
 
@@ -79,12 +73,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheshh-v&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshh-v&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=maheshh-v&show_icons=true&theme=radical&cache_seconds=86400" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=maheshh-v&theme=radical" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshh-v&layout=compact&theme=radical" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshh-v&layout=compact&theme=radical&cache_seconds=86400" height="140"/>
 </div>
 
 ---
