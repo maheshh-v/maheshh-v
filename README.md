@@ -69,17 +69,15 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
 ---
+### 📊 GitHub Activity
 
-### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maheshh-v&theme=github-dark" width="95%"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheshh-v&show_icons=true&theme=radical&cache_seconds=86400" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=maheshh-v&theme=radical" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshh-v&layout=compact&theme=radical&cache_seconds=86400" height="140"/>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=maheshh-v&theme=radical"/>
+</p>
 
 ---
 
@@ -90,7 +88,6 @@
   <a href="mailto:vy.maheshv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://maheshvyas.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
-
 ---
 
 > _"Success comes when you build with purpose, not just code."_
